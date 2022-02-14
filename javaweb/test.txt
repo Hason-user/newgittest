@@ -1,0 +1,7 @@
+itFormBoundaryNCnXfsDvzMfhKDY7
+Content-Disposition: form-data; name="file1"; filename="QQ号码_3598865686.txt"
+Content-Type: text/plain
+
+恭喜你,你申请的QQ号码是:3598865686
+
+------WebKitFormBoundaryNCnXfsDvzMfhKDY7--
